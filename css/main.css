@@ -21,7 +21,7 @@
 
 
 * {
-    border: 0px dashed green;
+    border: 1px dashed green;
 }
 /* ====================
      All screen sizes
@@ -554,8 +554,8 @@ h2 {
 	}
 	
 	.f_company {
-	width:100%;
-		margin-bottom:40px;
+	width:auto;
+	margin-bottom:40px;
 	
 	}
 
