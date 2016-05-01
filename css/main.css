@@ -7,11 +7,11 @@
 	font-weight: bold;
   }
 
-@font-face {
+/* @font-face {
 	font-family: intro; 
-	src: url(../Intro-Bold1.woff);
+	src: url(../Intro-Bold.woff);
 	font-weight: bold;
-  }
+  } */
 
 @font-face {
 	font-family: intro; 
